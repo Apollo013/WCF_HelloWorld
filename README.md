@@ -20,7 +20,7 @@ Developed using VS2015 Community
 #####Features
 
 | No | Feature |
-| -- | -------- |
+| ---- | -------- |
 | 1 | Creating a simple WCF Service that implements service & operation contracts |
 | 2 | Hosting a WCF service in IIS Express |
 | 3 | Creating a client to consume the WCF service |
