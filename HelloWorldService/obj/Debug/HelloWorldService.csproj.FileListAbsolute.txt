@@ -1,0 +1,10 @@
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.dll
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.pdb
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.pdb
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.dll
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.pdb
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.pdb
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache

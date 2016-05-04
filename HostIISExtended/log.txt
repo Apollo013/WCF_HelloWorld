@@ -1,0 +1,45 @@
+03/05/2016 13:33:51
+HelloWorldService is invoked
+Message=
+03/05/2016 13:33:51
+HelloWorldService is invoked
+Message=... stream ...
+03/05/2016 14:28:10
+HelloWorldService is invoked
+Message=
+03/05/2016 14:28:10
+HelloWorldService is invoked
+Message=... stream ...
+03/05/2016 14:30:23
+HelloWorldService is invoked
+Message=
+03/05/2016 14:30:23
+HelloWorldService is invoked
+Message=... stream ...
+03/05/2016 14:30:23
+HelloWorldService is invoked
+Message=
+03/05/2016 14:30:23
+HelloWorldService is invoked
+Message=... stream ...
+03/05/2016 14:31:13
+HelloWorldService is invoked
+Message=<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+  <s:Header>
+    <To s:mustUnderstand="1" xmlns="http://schemas.microsoft.com/ws/2005/05/addressing/none">http://apollo-hp/HelloWorldServiceExtended/HelloWorldService.svc</To>
+    <Action s:mustUnderstand="1" xmlns="http://schemas.microsoft.com/ws/2005/05/addressing/none">http://tempuri.org/IHelloWorldService/GetMessage</Action>
+  </s:Header>
+  <s:Body>... stream ...</s:Body>
+</s:Envelope>
+03/05/2016 14:31:13
+HelloWorldService is invoked
+Message=<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+  <s:Header>
+    <Action s:mustUnderstand="1" xmlns="http://schemas.microsoft.com/ws/2005/05/addressing/none">http://tempuri.org/IHelloWorldService/GetMessageResponse</Action>
+  </s:Header>
+  <s:Body>
+    <GetMessageResponse xmlns="http://tempuri.org/">
+      <GetMessageResult>Hello world from Paul!</GetMessageResult>
+    </GetMessageResponse>
+  </s:Body>
+</s:Envelope>

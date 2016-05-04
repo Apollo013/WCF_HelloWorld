@@ -1,0 +1,12 @@
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\bin\Debug\HelloWorldClientSecure.exe.config
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\bin\Debug\HelloWorldClientSecure.exe
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\bin\Debug\HelloWorldClientSecure.pdb
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\obj\Debug\HelloWorldClientSecure.csprojResolveAssemblyReference.cache
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\obj\Debug\HelloWorldClientSecure.exe
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\obj\Debug\HelloWorldClientSecure.pdb
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\bin\Debug\HelloWorldClientSecure.exe.config
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\bin\Debug\HelloWorldClientSecure.exe
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\bin\Debug\HelloWorldClientSecure.pdb
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\obj\Debug\HelloWorldClientSecure.csprojResolveAssemblyReference.cache
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\obj\Debug\HelloWorldClientSecure.exe
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientSecure\obj\Debug\HelloWorldClientSecure.pdb

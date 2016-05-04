@@ -1,0 +1,16 @@
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe.config
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.pdb
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HelloWorldService.dll
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HelloWorldService.pdb
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\obj\Debug\HostCmdLineApp.csprojResolveAssemblyReference.cache
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\obj\Debug\HostCmdLineApp.exe
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\obj\Debug\HostCmdLineApp.pdb
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe.config
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\obj\Debug\HostCmdLineApp.exe
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\obj\Debug\HostCmdLineApp.pdb
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.exe
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HostCmdLineApp.pdb
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HelloWorldService.dll
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\bin\Debug\HelloWorldService.pdb
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HostCmdLineApp\obj\Debug\HostCmdLineApp.csprojResolveAssemblyReference.cache

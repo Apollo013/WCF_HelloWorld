@@ -1,0 +1,12 @@
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\bin\Debug\HelloWorldClientTcp.exe.config
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\bin\Debug\HelloWorldClientTcp.exe
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\bin\Debug\HelloWorldClientTcp.pdb
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\obj\Debug\HelloWorldClientTcp.csprojResolveAssemblyReference.cache
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\obj\Debug\HelloWorldClientTcp.exe
+C:\Courses\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\obj\Debug\HelloWorldClientTcp.pdb
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\bin\Debug\HelloWorldClientTcp.exe.config
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\bin\Debug\HelloWorldClientTcp.exe
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\bin\Debug\HelloWorldClientTcp.pdb
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\obj\Debug\HelloWorldClientTcp.csprojResolveAssemblyReference.cache
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\obj\Debug\HelloWorldClientTcp.exe
+C:\Apps\App Tests\WCF\SOAWithWCFandLINQ\Projects\HelloWorld\HelloWorldClientTcp\obj\Debug\HelloWorldClientTcp.pdb
