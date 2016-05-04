@@ -4,6 +4,7 @@ An 'Under The Hood' multi-assembly app that demonstrates how to create a WCF ser
 Developed using VS2015 Community
 
 #####Project Layout
+
 | Name | Type | Description|
 | -- | ------ | -------- |
 | HelloWorldService | Class Library | The WCF Service |
@@ -15,9 +16,10 @@ Developed using VS2015 Community
 | HelloWorldClientSecure | Console Application | Assembly used to demonstrate Basic Authentication |
 
 ---
+
 #####Features
 
-|No | Feature |
+| No | Feature |
 | -- | ------ |
 | 1 | Creating a simple WCF Service that implements service & operation contracts |
 | 2 | Hosting a WCF service in IIS Express |
@@ -29,12 +31,12 @@ Developed using VS2015 Community
 | 8 | Extending a WCF service to simply log incoming & outgoing messages |
 | 9 | Hosting a WCF service using Basic Authentication |
 | 10 | Configuring Basic Authentication on IIS |
-| 11 | Configuring the HTTPS protocol on IIS by creating & binding to a self-signed certificate|
+| 11 | Configuring the HTTPS protocol on IIS by creating & binding to a self-signed certificate |
 | 12 | Configuring Basic Authentication on the service itself |
 
 ---
 #####Resources
-|Resource | Author(s) | Chapters |
+| Resource | Author(s) | Chapters |
 | --------- | --------- | ------- |
 | WCF 4.5 Multi-Layer Services Development with Entity Framework | Mike Liu | 2, 3, 11, 12 |
 
