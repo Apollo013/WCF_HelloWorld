@@ -1,5 +1,5 @@
 # WCF_HelloWorld
-An 'Under The Hood' multi-assembly app that demonstrates how to create a WCF service without the use of WCF Templates. The app demonstrates how to host a service in IIS, IIS Express or a managed app using HTTP or TCP.
+An 'Under The Hood' multi-assembly app that demonstrates how to create a WCF service without the use of WCF Templates. The app demonstrates how to host a service in IIS, IIS Express or a managed app using HTTP, HTTPS or TCP.
 
 Developed using VS2015 Community
 
