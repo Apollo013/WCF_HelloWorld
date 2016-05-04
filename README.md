@@ -6,13 +6,13 @@ Developed using VS2015 Community
 #####Project Layout
 
 | Name | Type | Description|
-| -- | ------ | -------- |
+| ---- | ------ | -------- |
 | HelloWorldService | Class Library | The WCF Service |
 | HostDevServer | ASP.NET Web Site | Used to host our service on IIS Express |
 | HelloWorldClient | Console Application | Client app used to consume our service |
 | HostCmdLineApp | Console Application | A managed application for hosting our service (also consumes) |
 | HelloWorldClientTcp | Console Application | Consumes our service hosted in IIS using the TCP protocol |
-| HelloWorldExtension | Class Library | Assembly used to contain extension, behavior and behavior element clasess that extend our service |
+| HelloWorldExtension | Class Library | Assembly used to contain extension, behavior and behavior element clasess that extends our service |
 | HelloWorldClientSecure | Console Application | Assembly used to demonstrate Basic Authentication |
 
 ---
@@ -20,7 +20,7 @@ Developed using VS2015 Community
 #####Features
 
 | No | Feature |
-| -- | ------ |
+| -- | -------- |
 | 1 | Creating a simple WCF Service that implements service & operation contracts |
 | 2 | Hosting a WCF service in IIS Express |
 | 3 | Creating a client to consume the WCF service |
@@ -35,6 +35,7 @@ Developed using VS2015 Community
 | 12 | Configuring Basic Authentication on the service itself |
 
 ---
+
 #####Resources
 | Resource | Author(s) | Chapters |
 | --------- | --------- | ------- |
