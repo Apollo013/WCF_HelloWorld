@@ -7,7 +7,7 @@ Developed using VS2015 Community
 
 ---
 
-#####Project Layout
+####Project Layout
 
 | Name | Type | Description|
 | ---- | ------ | -------- |
@@ -21,7 +21,7 @@ Developed using VS2015 Community
 
 ---
 
-#####Features
+####Features
 
 | No | Feature |
 | ---- | -------- |
@@ -40,7 +40,7 @@ Developed using VS2015 Community
 
 ---
 
-#####Resources
+####Resources
 | Resource | Author(s) | Chapters |
 | --------- | --------- | ------- |
 | WCF 4.5 Multi-Layer Services Development with Entity Framework | Mike Liu | 2, 3, 11, 12 |
